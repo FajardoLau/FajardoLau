@@ -4,7 +4,7 @@
 
 Soy egresada de la tecnología ADSO del SENA, enfocada principalmente en el desarrollo **Backend** y la **gestión de bases de datos**. Me apasiona crear soluciones funcionales como paneles administrativos, analítica de datos y automatización de procesos.
 
-Actualmente me encuentro en la categoría **Trainee**, con bases en desarrollo web y metodologías ágiles, y estoy con **mucha motivación de seguir adquiriendo mayor conocimiento**, aprender de equipos experimentados y asumir nuevos retos técnicos en el entorno profesional.
+Actualmente me encuentro en la categoría Trainee, con bases en desarrollo web y metodologías ágiles, y estoy con mucha motivación de seguir adquiriendo mayor conocimiento, aprender de equipos experimentados y asumir nuevos retos técnicos en el entorno profesional.
 
 ---
 
