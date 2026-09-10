@@ -1,6 +1,6 @@
 # ¡Hola! Soy Laura Fajardo 👋
 
-### 👩‍💻👩‍💻 Tecnóloga en Análisis y Desarrollo de Software | Desarrolladora Trainee
+### 👩‍💻 Tecnóloga en Análisis y Desarrollo de Software | Desarrolladora Trainee
 
 Soy egresada de la tecnología ADSO del SENA, enfocada principalmente en el desarrollo **Backend** y la **gestión de bases de datos**. Me apasiona crear soluciones funcionales como paneles administrativos, analítica de datos y automatización de procesos.
 
