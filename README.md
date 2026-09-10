@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy Laura Fajardo 👋
 
-<!--
-**FajardoLau/FajardoLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻👩‍💻 Tecnóloga en Análisis y Desarrollo de Software | Desarrolladora Trainee
 
-Here are some ideas to get you started:
+Soy egresada de la tecnología ADSO del SENA, enfocada principalmente en el desarrollo **Backend** y la **gestión de bases de datos**. Me apasiona crear soluciones funcionales como paneles administrativos, analítica de datos y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro en la categoría **Trainee**, con bases en desarrollo web y metodologías ágiles, y estoy con **mucha motivación de seguir adquiriendo mayor conocimiento**, aprender de equipos experimentados y asumir nuevos retos técnicos en el entorno profesional.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+* **Lenguajes & Backend:** JavaScript, Node.js, Express, NestJS
+* **Bases de Datos & ORM:** MySQL, PostgreSQL, TypeORM
+* **Herramientas & Infraestructura:** Git, GitHub, Docker, Linux (Ubuntu), Railway, Postman
+* **Automatización & Otros:** Flujos con n8n, Typebot, Telegram API
+
+---
+
+### 🚀 En qué estoy trabajando / aprendiendo
+* 📚 Profundizando en arquitectura de software y buenas prácticas de programación (KISS, SOLID).
+* ⚙️ Fortaleciendo proyectos personales Full Stack con bases de datos relacionales.
+* 💡 Explorando herramientas de despliegue y contenedores.
+
+---
+
+### 📫 ¡Conectemos!
+* **Correo:** lauracamilafajardocalderon@gmail.com
